@@ -25,10 +25,10 @@ img.logo {float: left;
 	}
 p {text-indent: 50px
 	}
-p.one {font-size: 110%;
-		color: #267594;}
 
 p.one {float: left;
+		font-size: 110%;
+		color: #267594;
 		border: 2px groove grey;
 		width: 400px;
 		height: 180px;
