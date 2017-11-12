@@ -1,4 +1,5 @@
-# git-pratice
-a practice git repo
+# critical-role
 
-What is a readme and why?
+pre-turing website
+
+a practice in html and css
